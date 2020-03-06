@@ -1,0 +1,8 @@
+Dell;XPS 15;10000
+Dell;Inspiron;4000
+HP;15-cs3017nw;2700
+Acer;Aspire 3;2000
+Apple;MacBook Pro;12000
+Apple;MacBook Pro;15000
+Acer;Aspire 1;1600
+Acer;Nitro 5;2649
